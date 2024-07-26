@@ -1,0 +1,36 @@
+.backGroundImage_11 {
+    background: url('../../../assets/card_1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+.backGroundImage_2 {
+    background: url('../../../assets/card_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+.backGroundImage_3 {
+    background: url('../../../assets/card_3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+.backGroundImage_4 {
+    background: url('../../../assets/card_4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
