@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <h1>This is my apple clone</h1>
+      <h1 className="text-red-300">This is my apple clone</h1>
     </>
   )
 }
